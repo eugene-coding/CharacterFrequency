@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34004.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "CharacterFrequency", "CharacterFrequency\CharacterFrequency.njsproj", "{C3E6C518-C189-4E5F-8E21-B5B396BF37D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3E6C518-C189-4E5F-8E21-B5B396BF37D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E6C518-C189-4E5F-8E21-B5B396BF37D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E6C518-C189-4E5F-8E21-B5B396BF37D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E6C518-C189-4E5F-8E21-B5B396BF37D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2729085-04F2-470F-98FB-819DB3409CD0}
+	EndGlobalSection
+EndGlobal
