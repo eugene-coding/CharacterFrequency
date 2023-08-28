@@ -13,7 +13,7 @@ class DefaultIntegerMap extends Map {
 
 class Histogram {
     constructor() {
-        this.letterCounts = new DefaultIntegerMap(0);
+        this.letterCounts = new DefaultIntegerMap();
         this.totalLetters = 0;
     }
 
